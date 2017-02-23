@@ -1,7 +1,7 @@
 body {
     background-color: #FC80A5;
     margin: 0px;
-    font-family: Verdana, Georgia, Serif;
+    font-family: Courier New, Serifs;
     font-size: 14px;
 }
 
@@ -31,18 +31,35 @@ main {
 }
 
 aside {
-    background-color: #76D7EA;
-    margin: 10px;
+    background-color: #009DC4;
+    margin-left:10px;
+    margin-right: 10px;
+    margin-top: 0px;
+    margin-bottom: 10px;
     border-radius: 5px;
     padding: 20px;
-    font-size: 105%
+    font-size: 105%;
     float: right;
-    width: 230px;
+    width: 260px;
+    clear: right;
 }
+
+footer {
+    background-color: #009DC4;
+    margin-left: 10px;
+    margin-right: ;
+    margin-top: ;
+    margin-bottom: ;
+    font-size: 13px;
+    border-radius: 5px;
+}
+
 
 h1 {
     font-size: 120%;
-    color: darkblue;
+    color: red;
+    text-align: center;
+    font-size: 30px;
 }
 
 h2 {
