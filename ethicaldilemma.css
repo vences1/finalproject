@@ -2,7 +2,7 @@ body {
     background-color: #FC80A5;
     margin: 0px;
     font-family: Courier New, Serifs;
-    font-size: 14px;
+    font-size: 20px;
 }
 
 header {
@@ -46,12 +46,11 @@ aside {
 
 footer {
     background-color: #009DC4;
-    margin-left: 10px;
-    margin-right: ;
-    margin-top: ;
-    margin-bottom: ;
-    font-size: 13px;
+    margin: 10px;
+    height: 60px;
+    font-size: 15px;
     border-radius: 5px;
+    clear: right;
 }
 
 
